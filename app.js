@@ -6,6 +6,7 @@ const app = express();
 // Generate dummy data
 function generateData(fields, count) {
   const records = [];
+  records.push({"deployment":"Green"})
 
   for (let i = 0; i < count; i++) {
     const record = {};
