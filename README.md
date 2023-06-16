@@ -6,7 +6,7 @@ This document provides an overview of the application architecture and the servi
 
 ## Architecture Diagram
 
-Please refer to the architecture diagram for a visual representation of the application's architecture: [Architecture Diagram](https://github.com/akarsh-23/GererateAPI/blob/main/ArchitectureDiagram.jpg)
+Please refer to the architecture diagram for a visual representation of the application's architecture: ![Architecture Diagram](https://github.com/akarsh-23/GererateAPI/blob/main/ArchitectureDiagram.jpg)
 
 ## Services Used
 
