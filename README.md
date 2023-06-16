@@ -1,5 +1,3 @@
-# Application README
-
 ## Overview
 
 This document provides an overview of the application architecture and the services used to support it. It also explains the rationale behind using AWS Cognito, AWS CodeDeploy for blue-green deployment, and AWS WAF for API rate limiting.
