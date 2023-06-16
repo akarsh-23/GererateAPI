@@ -27,6 +27,3 @@ AWS WAF is used for API rate limiting in this application. API rate limiting is 
 The combination of AWS Cognito for user authentication and authorization, AWS CodeDeploy for blue-green deployment, and AWS WAF for API rate limiting enhances the security, scalability, and reliability of your application. These services provide managed solutions that offload complex tasks and allow you to focus on developing and delivering your application's core features.
 
 Please refer to the architecture diagram for a detailed view of the application's components and their interactions.
-
-For any questions or support, please reach out to the application team.
-
